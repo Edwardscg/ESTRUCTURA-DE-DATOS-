@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|c:\\users\\edwar\\source\\repos\\ejercicios-estructura de datos\\ejercicios-estructura de datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|solutionrelative:ejercicios-estructura de datos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\ejercicios-estructura de datos\\estructuradordedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|solutionrelative:ejercicios-estructura de datos\\estructuradordedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\ejercicios-estructura de datos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED433AE-E846-49D6-9FC7-C5B90CEA6E10}|Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos.csproj|solutionrelative:ejercicios-estructura de datos\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios-Estructura de datos\\Program.cs",
+              "ToolTip": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\Program.cs",
+              "RelativeToolTip": "Ejercicios-Estructura de datos\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwCgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:45:52.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\Nodo.cs",
+              "RelativeDocumentMoniker": "Ejercicios-Estructura de datos\\Nodo.cs",
+              "ToolTip": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\Nodo.cs",
+              "RelativeToolTip": "Ejercicios-Estructura de datos\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:46:59.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstructuradorDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\EstructuradorDeDatos.cs",
+              "RelativeDocumentMoniker": "Ejercicios-Estructura de datos\\EstructuradorDeDatos.cs",
+              "ToolTip": "C:\\Users\\edwar\\source\\repos\\Ejercicios-Estructura de datos\\Ejercicios-Estructura de datos\\EstructuradorDeDatos.cs",
+              "RelativeToolTip": "Ejercicios-Estructura de datos\\EstructuradorDeDatos.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAWwHUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T02:48:19.713Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

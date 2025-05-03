@@ -1,0 +1,7 @@
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\bin\Debug\Ejercicios-Estructura de datos.exe.config
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\bin\Debug\Ejercicios-Estructura de datos.exe
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\bin\Debug\Ejercicios-Estructura de datos.pdb
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\obj\Debug\Ejercicios-Estructura de datos.csproj.AssemblyReference.cache
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\obj\Debug\Ejercicios-Estructura de datos.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\obj\Debug\Ejercicios-Estructura de datos.exe
+C:\Users\edwar\source\repos\Ejercicios-Estructura de datos\Ejercicios-Estructura de datos\obj\Debug\Ejercicios-Estructura de datos.pdb
