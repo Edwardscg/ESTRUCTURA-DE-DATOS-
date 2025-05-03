@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\bin\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.exe.config
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\bin\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.exe
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\bin\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.pdb
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion_9_EstructuraDeDatos_ArbolBinario3.Form1.resources
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion_9_EstructuraDeDatos_ArbolBinario3.Properties.Resources.resources
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.exe
+C:\Users\UPN\source\repos\Sesion-9-EstructuraDeDatos\Sesion-9-EstructuraDeDatos-ArbolBinario3\obj\Debug\Sesion-9-EstructuraDeDatos-ArbolBinario3.pdb

@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\bin\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.exe.config
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\bin\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.exe
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\bin\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.pdb
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion_13_EstructuraDeDatos_Floyd_WF.Form1.resources
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion_13_EstructuraDeDatos_Floyd_WF.Properties.Resources.resources
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.exe
+C:\Users\UPN\source\repos\Sesion-13-EstructuraDeDatos\Sesion-13-EstructuraDeDatos-Floyd-WF\obj\Debug\Sesion-13-EstructuraDeDatos-Floyd-WF.pdb

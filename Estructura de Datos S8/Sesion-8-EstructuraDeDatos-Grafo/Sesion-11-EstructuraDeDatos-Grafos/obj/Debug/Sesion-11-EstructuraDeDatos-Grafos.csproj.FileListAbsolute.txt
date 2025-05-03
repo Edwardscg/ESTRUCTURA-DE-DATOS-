@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\bin\Debug\Sesion-11-EstructuraDeDatos-Grafos.exe.config
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\bin\Debug\Sesion-11-EstructuraDeDatos-Grafos.exe
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\bin\Debug\Sesion-11-EstructuraDeDatos-Grafos.pdb
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion-11-EstructuraDeDatos-Grafos.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion_11_EstructuraDeDatos_Grafos.Form1.resources
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion_11_EstructuraDeDatos_Grafos.Properties.Resources.resources
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion-11-EstructuraDeDatos-Grafos.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion-11-EstructuraDeDatos-Grafos.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion-11-EstructuraDeDatos-Grafos.exe
+C:\Users\UPN\source\repos\Sesion-11-EstructuraDeDatos\Sesion-11-EstructuraDeDatos-Grafos\obj\Debug\Sesion-11-EstructuraDeDatos-Grafos.pdb

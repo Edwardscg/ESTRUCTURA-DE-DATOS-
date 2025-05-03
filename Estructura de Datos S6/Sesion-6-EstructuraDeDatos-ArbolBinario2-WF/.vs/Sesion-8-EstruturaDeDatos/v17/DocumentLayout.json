@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|c:\\users\\upn\\source\\repos\\sesion-8-estruturadedatos\\sesion-8-estruturadedatos-arbolbinario2\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|solutionrelative:sesion-8-estruturadedatos-arbolbinario2\\arbol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|c:\\users\\upn\\source\\repos\\sesion-8-estruturadedatos\\sesion-8-estruturadedatos-arbolbinario2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|solutionrelative:sesion-8-estruturadedatos-arbolbinario2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|c:\\users\\upn\\source\\repos\\sesion-8-estruturadedatos\\sesion-8-estruturadedatos-arbolbinario2\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|solutionrelative:sesion-8-estruturadedatos-arbolbinario2\\nodo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|c:\\users\\upn\\source\\repos\\sesion-8-estruturadedatos\\sesion-8-estruturadedatos-arbolbinario2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6A64B934-0DE3-421D-A6BA-857E840C75F7}|Sesion-8-EstruturaDeDatos-ArbolBinario2\\Sesion-8-EstruturaDeDatos-ArbolBinario2.csproj|solutionrelative:sesion-8-estruturadedatos-arbolbinario2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "RelativeToolTip": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAD4vzYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:17:16.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Arbol.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Arbol.cs",
+              "RelativeDocumentMoniker": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Arbol.cs",
+              "ToolTip": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Arbol.cs",
+              "RelativeToolTip": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Arbol.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:07:58.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.cs",
+              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Nodo.cs",
+              "RelativeDocumentMoniker": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Nodo.cs",
+              "ToolTip": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Nodo.cs",
+              "RelativeToolTip": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Nodo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:05:20.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "RelativeDocumentMoniker": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs",
+              "ToolTip": "C:\\Users\\UPN\\source\\repos\\Sesion-8-EstruturaDeDatos\\Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Sesion-8-EstruturaDeDatos-ArbolBinario2\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T15:50:32.578Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

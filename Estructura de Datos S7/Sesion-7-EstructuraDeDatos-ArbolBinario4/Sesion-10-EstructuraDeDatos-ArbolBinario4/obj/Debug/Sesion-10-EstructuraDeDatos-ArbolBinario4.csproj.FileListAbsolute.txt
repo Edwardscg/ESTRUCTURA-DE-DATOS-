@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\bin\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.exe.config
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\bin\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.exe
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\bin\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.pdb
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion_10_EstructuraDeDatos_ArbolBinario4.Form1.resources
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion_10_EstructuraDeDatos_ArbolBinario4.Properties.Resources.resources
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.exe
+C:\Users\UPN\source\repos\Sesion-10-EstructuraDeDatos\Sesion-10-EstructuraDeDatos-ArbolBinario4\obj\Debug\Sesion-10-EstructuraDeDatos-ArbolBinario4.pdb
